@@ -1,6 +1,8 @@
-DOMAIN-SUFFIX,pscdn.co,🎧 Spotify
-DOMAIN-SUFFIX,scdn.co,🎧 Spotify
-DOMAIN-SUFFIX,spoti.fi,🎧 Spotify
-DOMAIN-SUFFIX,spotify.com,🎧 Spotify
-DOMAIN-SUFFIX,spotifycdn.net,🎧 Spotify
-DOMAIN-KEYWORD,spotify,🎧 Spotify
+#Spotify规则
+
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-KEYWORD,spotify
